@@ -1,0 +1,4 @@
+# class myclass:
+    # x="vaisakh"
+# p1=myclass()
+# print(p1.x)

@@ -1,0 +1,23 @@
+# fruits=["apple","banana","cherry"]
+# for x in fruits:
+    # print(x)
+# for x in "banana":
+    # print(x)
+
+
+# for i in range(0,10,2):
+    # print(i)
+
+# for i in range(10):
+    # if i==8:
+        # break
+    # print(i)
+
+
+# for i in range(10):
+    # if i==9:
+        # continue
+    # print(i)
+
+for x in [0,1,2]:
+    pass
